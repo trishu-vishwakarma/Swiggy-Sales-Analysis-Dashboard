@@ -4,7 +4,7 @@ An interactive **Swiggy Sales Analysis Dashboard** built using **Microsoft Power
 
 ## 📊 Dashboard Preview
 
-"D:\Movies $ Series Folder\swiggy\swiggy\Swiggy_Dashboard Image.png"
+![Swiggy Sales Dashboard](Swiggy_Dashboard.png)
 
 ## 🎯 Project Objective
 
