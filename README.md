@@ -4,7 +4,7 @@ An interactive **Swiggy Sales Analysis Dashboard** built using **Microsoft Power
 
 ## 📊 Dashboard Preview
 
-![Swiggy Sales Dashboard](Swiggy_Dashboard.png)
+![Swiggy Dashboard](Swiggy_Dashboard.png)
 
 ## 🎯 Project Objective
 
