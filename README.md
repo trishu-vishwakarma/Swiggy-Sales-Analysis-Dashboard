@@ -2,9 +2,9 @@
 
 An interactive **Swiggy Sales Analysis Dashboard** built using **Microsoft Power BI** to analyze sales, orders, ratings, food types, cities, states, and sales trends.
 
-## 📊 Dashboard Preview
+ ## 📊 Dashboard Preview
 
-![Swiggy Sales Dashboard](Swiggy_Dashboard.png)
+![Swiggy Dashboard](./Swiggy_Dashboard.png)
 
 ## 🎯 Project Objective
 
